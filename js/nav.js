@@ -17,9 +17,9 @@ $(function(){
                 flag:"home",
                 href:"."
             },{
-                text:"论坛",
+                text:"博客",
                 flag:"bbs",
-                href:"http://bbs.appx.top",
+                href:"http://blog.appx.top",
                 target:"_blank"
             },{
                 text:"关于",
